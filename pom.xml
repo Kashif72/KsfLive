@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sayika</groupId>
   <artifactId>liveness_say</artifactId>
-  <version>3.0</version>
+  <version>3.1</version>
   <dependencies>
     <dependency>
       <groupId>androidx.camera</groupId>
