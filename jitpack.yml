@@ -1,3 +1,0 @@
-install: 
-  - FILE="-Dfile=liveness-release.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.ksf -DartifactId=ksf_liveness -Dversion=1.0 -Dpackaging=aar -DgeneratePom=true
