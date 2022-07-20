@@ -3,7 +3,7 @@
   "component": {
     "group": "com.sayika",
     "module": "liveness_say",
-    "version": "3.0",
+    "version": "4.0",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -169,13 +169,6 @@
           "module": "material",
           "version": {
             "requires": "1.6.1"
-          }
-        },
-        {
-          "group": "SdkTest.liveness",
-          "module": "openCVLibrary343",
-          "version": {
-            "requires": "unspecified"
           }
         },
         {
