@@ -3,7 +3,7 @@
   "component": {
     "group": "com.sayika",
     "module": "liveness_say",
-    "version": "4.1",
+    "version": "5.0",
     "attributes": {
       "org.gradle.status": "release"
     }
