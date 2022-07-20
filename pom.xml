@@ -12,24 +12,6 @@
   <version>5.1</version>
   <dependencies>
     <dependency>
-      <groupId>androidx.camera</groupId>
-      <artifactId>camera-camera2</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.camera</groupId>
-      <artifactId>camera-lifecycle</artifactId>
-      <version>1.0.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>androidx.camera</groupId>
-      <artifactId>camera-view</artifactId>
-      <version>1.0.0-alpha24</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>id.zelory</groupId>
       <artifactId>compressor</artifactId>
       <version>3.0.1</version>
